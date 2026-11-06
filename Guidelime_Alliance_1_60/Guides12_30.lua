@@ -1,4 +1,4 @@
-local addonName, addon = ...
+﻿local addonName, addon = ...
 
 -- ============================================================================
 -- Alliance 12-30 — covers the free-route band: Darkshore, Loch Modan,
@@ -12,7 +12,7 @@ Guidelime.registerGuide([[
 [GA Alliance]
 [D Auberdine hub. Do the Buzzbox + beach + grove lines together.]
 
-[G37,44 Darkshore] Auberdine: [P Auberdine], [S Auberdine]. Accept [QA983 Buzzbox 827] (Wizbang), [QA963 For Love Eternal], [QA958 Tools of the Highborne], [QA953 The Fall of Ameth'Aran], [QA2118 Plagued Lands]
+[G37,44 Darkshore] Auberdine: Get the flight point [P Auberdine] and set your hearth [S Auberdine]. Accept [QA983 Buzzbox 827] (Wizbang), [QA963 For Love Eternal], [QA958 Tools of the Highborne], [QA953 The Fall of Ameth'Aran], [QA2118 Plagued Lands]
 [G37,46 Darkshore] Beach: [QC983 6 crawler legs] into the Buzzbox; accept the Washed Ashore line [QA3524 Sea Creature Bones] and turn beach finds in to Gwennyth [QT4722][QT4723][QT4725]
 [G40,60 Darkshore] [QC963 For Love Eternal] — free Anaya Dawnrunner, bring her pendant back
 [G44,36 Darkshore] Bashal'Aran: [QA954][QA955 Grell earrings][QA956 moonstone seal][QA957 destroy the seal] chain
@@ -34,7 +34,7 @@ Guidelime.registerGuide([[
 [GA Alliance]
 [D Thelsamar hub. Troggs, hunters, and the dig site.]
 
-[G32,48 Loch Modan] Thelsamar: [P Thelsamar], [S Thelsamar]. Accept [QA416 Rat Catching] (Kadrell), [QA418 Thelsamar Blood Sausages], [QA267 The Trogg Threat]
+[G32,48 Loch Modan] Thelsamar: Get the flight point [P Thelsamar] and set your hearth [S Thelsamar]. Accept [QA416 Rat Catching] (Kadrell), [QA418 Thelsamar Blood Sausages], [QA267 The Trogg Threat]
 [G46,13 Loch Modan] North gate: [QA414 Stout to Kadrell] if coming from Dun Morogh
 [G82,62 Loch Modan] Farstrider Lodge: [QA385 Crocolisk Hunting] (Marek), [QA257 A Hunter's Boast] — TIMED buzzards, then [QA258] TIMED boars, then [QA271 Vyrin's Revenge] (kill Ol' Sooty) -> [QT531 turn in to Vyrin]
 [G65,66 Loch Modan] Ironband's Excavation: accept the report chain [QA298] -> later [QT301 to Ironforge]; [QC2038 Bingles' Missing Supplies] — 4 tools around the dig and the loch
@@ -52,7 +52,7 @@ Guidelime.registerGuide([[
 [GA Alliance]
 [D Lakeshire hub. Orcs, gnolls, murlocs — everything stacks near town.]
 
-[G30,47 Redridge Mountains] Lakeshire: [P Lakeshire], [S Lakeshire]. Accept [QA92 Redridge Goulash] (Breanna), [QA150 Selling Fish], [QA125 The Lost Tools], [QA3741 Hilary's Necklace], [QA246 Assessing the Threat]
+[G30,47 Redridge Mountains] Lakeshire: Get the flight point [P Lakeshire] and set your hearth [S Lakeshire]. Accept [QA92 Redridge Goulash] (Breanna), [QA150 Selling Fish], [QA125 The Lost Tools], [QA3741 Hilary's Necklace], [QA246 Assessing the Threat]
 [G60,55 Redridge Mountains] [QC246 gnolls] + pendants for [QA91 Solomon's Law]; food mats (condor/goretusk/spider) for [QC92] on all wildlife
 [G28,44 Redridge Mountains] Lake: [QC125 toolbox], [QC3741 necklace], [QC150 murloc fins] then [QA127 Selling Fish II] (sunfish)
 [G32,40 Redridge Mountains] [QA129 A Free Lunch] -> [QT130 Visit the Herbalist] -> deliver daffodils back
@@ -87,7 +87,7 @@ Guidelime.registerGuide([[
 [GA Alliance]
 [D Astranaar + Zoram + first Raene steps.]
 
-[G37,50 Ashenvale] Astranaar: [P Astranaar], [S Astranaar]. Accept [QA990 Raene's Cleansing], [QA1033 Elune's Tear] (Pelturas), [QA216 An Aggressive Defense]
+[G37,50 Ashenvale] Astranaar: Get the flight point [P Astranaar] and set your hearth [S Astranaar]. Accept [QA990 Raene's Cleansing], [QA1033 Elune's Tear] (Pelturas), [QA216 An Aggressive Defense]
 [G14,22 Ashenvale] Zoram Strand: the naga line — kill nagas, statuettes for Talen, [O] Vorsha the Lasher escort
 [G26,63 Ashenvale] [QC1023 Raene's Cleansing] — the glowing gem at Fire Scar Shrine, then [QC1024 Shael'dryn][G53,46 Ashenvale]
 [G41,35 Ashenvale] [QC1033 Elune's Tear] at the island; [QC1034 Ruins of Stardust] stardust bushes next
@@ -151,7 +151,7 @@ Guidelime.registerGuide([[
 [GA Alliance]
 [D Menethil + Greenwarden + the murloc/crocolisk north half.]
 
-[G10,59 Wetlands] Menethil: [P Menethil Harbor], [S Menethil Harbor]. Accept [QA279 Claws from the Deep] (Karl Boran), [QA484 Young Crocolisk Skins] (James Halloran), [QA463 find the Greenwarden]
+[G10,59 Wetlands] Menethil: Get the flight point [P Menethil Harbor] and set your hearth [S Menethil Harbor]. Accept [QA279 Claws from the Deep] (Karl Boran), [QA484 Young Crocolisk Skins] (James Halloran), [QA463 find the Greenwarden]
 [G56,40 Wetlands] Greenwarden Rethiel: [QA276 Tramping Paws], [QA277 Fire Taboo], [QA275 Blisters on the Land]
 [G45,45 Wetlands] [QC276 mosshide gnolls/mongrels]; [QC277 crude flints] from the same camp; [QC275 fen creepers] in the bog
 [G20,40 Wetlands] [QC279 Gobbler + bluegill murlocs]; [QC484 young crocolisk skins] along the river
@@ -183,7 +183,7 @@ Guidelime.registerGuide([[
 [GA Alliance]
 [D Darkshire hub — the big lore chains. Hearth: Darkshire.]
 
-[G74,45 Duskwood] Darkshire: [P Darkshire], [S Darkshire]. Accept [QA56 The Night Watch] (Ebonlocke), [QA173 Worgen in the Woods] (Calor), [QA90 Seasoned Wolf Kabobs] (Grual), [QA101 The Totem of Infliction] (Madame Eva)
+[G74,45 Duskwood] Darkshire: Get the flight point [P Darkshire] and set your hearth [S Darkshire]. Accept [QA56 The Night Watch] (Ebonlocke), [QA173 Worgen in the Woods] (Calor), [QA90 Seasoned Wolf Kabobs] (Grual), [QA101 The Totem of Infliction] (Madame Eva)
 [G64,71 Duskwood] Rotting Orchard: [QC56 skeletons], [QC173 shadow weavers]; wolf flanks for [QC90]
 [G20,56 Duskwood] Raven Hill: [QC57 Night Watch II] (fiends/horrors); [QC58 Plague Spreaders] in the east mausoleum
 [G64,40 Duskwood] [QC222 Worgen in the Woods III] (vile fangs + tainted ones at the mine); turn in line ends [QA223 Calor's note]

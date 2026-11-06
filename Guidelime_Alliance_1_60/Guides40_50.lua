@@ -1,4 +1,4 @@
-local addonName, addon = ...
+﻿local addonName, addon = ...
 
 -- ============================================================================
 -- Alliance 40-50 — Badlands, Swamp of Sorrows, STV, Desolace, Tanaris,
@@ -71,7 +71,7 @@ Guidelime.registerGuide([[
 [GA Alliance]
 [D Gadgetzan hub. Hearth: Gadgetzan. Pirates + Wastewander + Noggenfogger.]
 
-[G52,28 Tanaris] Gadgetzan: [P Gadgetzan], [S Gadgetzan]. Accept [QA1690 Wastewander Justice] (Bilgewhizzle), [QA1707 Water Pouch Bounty] (Luglunket), [QA243 Gadgetzan Water Survey]
+[G52,28 Tanaris] Gadgetzan: Get the flight point [P Gadgetzan] and set your hearth [S Gadgetzan]. Accept [QA1690 Wastewander Justice] (Bilgewhizzle), [QA1707 Water Pouch Bounty] (Luglunket), [QA243 Gadgetzan Water Survey]
 [G39,29 Tanaris] [QC243 dowsing widget at Sandsorrow] -> [QA654 Field Testing] (8 basilisk/hyena/scorpion samples) -> [QC82 Noxious Lair Investigation] follow-up
 [G40,30 Tanaris] [QC1690 Wastewander bandits/thieves] -> [QC1691 More Wastewander Justice] (mages/rogues/assassins); pouches for [QC1707]
 [O][G40,30 Tanaris] [QC2781 WANTED: Caliph Scorpidsting] — he patrols between camps
@@ -91,7 +91,7 @@ Guidelime.registerGuide([[
 [GA Alliance]
 [D Feathermoon hub — the courier + stave + sprite darter megachains.]
 
-[G30,43 Feralas] Feathermoon: [P Feathermoon], [S Feathermoon]. Accept [QA2866 The Ruins of Solarsal] (Shandris), [QA3130 Against the Hatecrest] (Latronicus), [QA2821 The Mark of Quality] (Pratt)
+[G30,43 Feralas] Feathermoon: Get the flight point [P Feathermoon] and set your hearth [S Feathermoon]. Accept [QA2866 The Ruins of Solarsal] (Shandris), [QA3130 Against the Hatecrest] (Latronicus), [QA2821 The Mark of Quality] (Pratt)
 [G26,52 Feralas] [QC2866 investigate the ruins] -> [QT2867 report to Shandris]; [QC2869 Hatecrest scales]
 [G28,70 Feralas] [O][QC2870 Lord Shalzaru] (naga cave, tough) -> [QT2871 Delivering the Relic] (Darnassus when passing)
 [G30,46 Feralas] [QA4124 The Missing Courier] (Ginro) -> [QC4127 the wrecked boat offshore] -> [QC4129 knife to Quintis] -> [QT4130] -> [QC4131 Woodpaw Gnoll camps][G73,55 Feralas]
@@ -124,7 +124,7 @@ Guidelime.registerGuide([[
 [GA Alliance]
 [D Aerie Peak hub. Hearth: Aerie Peak. Sharpbeak + Rhapsody + eggs.]
 
-[G11,46 The Hinterlands] Aerie Peak: [P Aerie Peak], [S Aerie Peak]. Turn in [QT1449 To The Hinterlands] -> [QT1450 to Talonaxe]; accept [QA2988 Witherbark Cages], [QA2877 Skulk Rock Clean-up] (Fraggar), [QA2880 Troll Necklace Bounty]
+[G11,46 The Hinterlands] Aerie Peak: Get the flight point [P Aerie Peak] and set your hearth [S Aerie Peak]. Turn in [QT1449 To The Hinterlands] -> [QT1450 to Talonaxe]; accept [QA2988 Witherbark Cages], [QA2877 Skulk Rock Clean-up] (Fraggar), [QA2880 Troll Necklace Bounty]
 [G23,58 The Hinterlands] [QC2988 check the cages] at the Witherbark villages -> [QC2989 The Altar of Zul][G48,67 The Hinterlands] -> [QA2990 Thadius Grimshade] (Nethergarde — HOLD; ZF -> back for Saving Sharpbeak)
 [G32,71 The Hinterlands] Shadra'Alor: turn in [QT1429 The Atal'ai Exile] -> [QA77 Ripple Recovery] (crates at the abandoned base) -> Jammal'an the Prophet (HOLD for ST)
 [G40,61 The Hinterlands] [QC2641 Sprinkle's Secret Ingredient] — violet mushroom at the lake (Noggenfogger chain)

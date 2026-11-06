@@ -1,4 +1,4 @@
-local addonName, addon = ...
+﻿local addonName, addon = ...
 
 -- ============================================================================
 -- Alliance 50-60 — Hinterlands, Blasted Lands, Un'Goro, Azshara, Felwood,
@@ -87,7 +87,7 @@ Guidelime.registerGuide([[
 [GA Alliance]
 [D Everlook + Donova. Hearth: Everlook.]
 
-[G61,39 Winterspring] Everlook: [P Everlook], [S Everlook]. Accept [QA3783 Are We There, Yeti?] (Umi — 10 thick furs), [QA5054 Ursius] (Storm Shadowhoof), [QA969 Luck Be With You] (Mau'ari), [QA4809 Chillwind Horns] (Felnok)
+[G61,39 Winterspring] Everlook: Get the flight point [P Everlook] and set your hearth [S Everlook]. Accept [QA3783 Are We There, Yeti?] (Umi — 10 thick furs), [QA5054 Ursius] (Storm Shadowhoof), [QA969 Luck Be With You] (Mau'ari), [QA4809 Chillwind Horns] (Felnok)
 [G31,45 Winterspring] Donova Snowden: [QT980 The New Frontier] -> [QC5086 Toxic Horrors] (3 droplets) -> [QC5087 Winterfall Runners] (intercept the crate)
 [G69,38 Winterspring] [QC5087 runners on the road]; [QC8464 Winterfall Activity] (Salfa) and [QC5082 Winterfall Intrusion] at the village; [O][QC5121 High Chief Winterfall] (group)
 [G67,42 Winterspring] [QC3783 yeti furs] at Ice Thistle Hills; [QC977 2 pristine horns] (next Umi step) -> [QC5163 the mechanical yeti prank] — scare Legacki (here), Sprinkle (Gadgetzan), Quixxil (Marshal's) on your travels
@@ -134,7 +134,7 @@ Guidelime.registerGuide([[
 [GA Alliance]
 [D Chillwind hub. Hearth: Chillwind. The cauldron tour.]
 
-[G43,85 Western Plaguelands] Chillwind Camp: [P Chillwind Camp], [S Chillwind Camp]. Turn in [QT5066 A Call to Arms] -> [QC5092 Clear the Way] (Sorrow Hill) -> [QC5096 Scarlet Diversions] (burn the tent) -> [QC5097 All Along the Watchtowers] (torch 4 Andorhal towers)
+[G43,85 Western Plaguelands] Chillwind Camp: Get the flight point [P Chillwind Camp] and set your hearth [S Chillwind Camp]. Turn in [QT5066 A Call to Arms] -> [QC5092 Clear the Way] (Sorrow Hill) -> [QC5096 Scarlet Diversions] (burn the tent) -> [QC5097 All Along the Watchtowers] (torch 4 Andorhal towers)
 [G43,85 Western Plaguelands] [QA5215 The Scourge Cauldrons] (MacDonnell) — the tour: [QC5216 Felstone][G37,56 Western Plaguelands] -> [QC5217 bottle] -> [QC5219 Dalson's][G46,52 Western Plaguelands] -> [QC5220] -> [QC5222 Writhing Haunt][G53,66 Western Plaguelands] -> [QC5223] -> [QC5225 Gahrron's][G62,57 Western Plaguelands] -> [QC5226] (kill each Cauldron Lord, use the bottle; [Q5060 Mrs. Dalson's cabinet] at the farm)
 [G53,66 Western Plaguelands] [QC4984/4985 The Wildlife Suffers Too] (Mulgris — wolves then grizzlies) -> Glyphed Oaken Branch (Darnassus)
 [G46,69 Western Plaguelands] Andorhal: [QC4971 A Matter of Time] (silo parasites) -> [QC4972 Counting Out Time] (watches) -> [QC5154 The Annals of Darrowshire] (town hall — fake books spawn worms) -> [QA5210 Brother Carlin] (EPL — HOLD)
@@ -150,7 +150,7 @@ Guidelime.registerGuide([[
 [GA Alliance]
 [D Light's Hope hub. Hearth: Light's Hope. Darrowshire + Tirion + Strat prep.]
 
-[G80,58 Eastern Plaguelands] Light's Hope Chapel: [P Light's Hope Chapel], [S Light's Hope Chapel]. Accept [QA6021 Zaeldarr the Outcast] (Alen), [QA5281 The Restless Souls] (Egan), Argent Dawn turn-ins ([Q9124 crypt fiend parts] etc — repeatable)
+[G80,58 Eastern Plaguelands] Light's Hope Chapel: Get the flight point [P Light's Hope Chapel] and set your hearth [S Light's Hope Chapel]. Accept [QA6021 Zaeldarr the Outcast] (Alen), [QA5281 The Restless Souls] (Egan), Argent Dawn turn-ins ([Q9124 crypt fiend parts] etc — repeatable)
 [G36,90 Eastern Plaguelands] Darrowshire: [QT5210 Brother Carlin] -> [QC5181 Villains of Darrowshire] (Horgus skull + Marduk sword) + [Q Heroes of Darrowshire] (libram + shield) -> [Q Marauders of Darrowshire] (resonating skulls) -> Return to Chromie -> [O][QC The Battle of Darrowshire] (event — GROUP) -> Hidden Treasures
 [G36,90 Eastern Plaguelands] [QT5241 Uncle Carlin] -> [QC5211 Defenders of Darrowshire] (free 15 spirits)
 [G7,43 Eastern Plaguelands] Tirion Fordring (river house): [QC5542 Demon Dogs] + [QC5543 Blood Tinged Skies] + [QC5544 Carrion Grubbage] -> [QC5742 Redemption] (listen) -> [QC5781 Of Forgotten Memories] (Undercroft[G27,83 Eastern Plaguelands]) -> [QC5845 Of Lost Honor] (Northdale[G66,29 Eastern Plaguelands]) -> [QC5846 Of Love and Family] (painting, Caer Darrow island[G68,76 Western Plaguelands])

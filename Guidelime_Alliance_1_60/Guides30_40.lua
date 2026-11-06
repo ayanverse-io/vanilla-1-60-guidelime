@@ -1,4 +1,4 @@
-local addonName, addon = ...
+﻿local addonName, addon = ...
 
 -- ============================================================================
 -- Custom Alliance 30-60 pack — ACT I (30-40)
@@ -105,7 +105,7 @@ Guidelime.registerGuide([[
 [G45,8 Stranglethorn Vale] Kurzen compound: [QC203][QC204] — also starts the Bookie Herod line [QA329]
 [G36,11 Stranglethorn Vale] Nesingwary's: accept all masteries — [QA185][QA190][QA194] (tiger/panther/raptor I)
 Do [QC185][QC190][QC194] around the camp, then tier II: [QA186][QA191][QA195] and [QC186][QC191][QC195]
-[G27,74 Stranglethorn Vale] Booty Bay: [P Booty Bay], [S Booty Bay]. Accept [QA201 Investigate the Camp] (Krazek), [QA189 Bloodscalp Ears], [QA213 Hostile Takeover], [QA605 Singing Blue Shards] (Fizzlebub), [QA575 Some Assembly Required] (Drizzlik), [QA578 The Stone of the Tides] line (Revilgaz/Krazek)
+[G27,74 Stranglethorn Vale] Booty Bay: Get the flight point [P Booty Bay] and set your hearth [S Booty Bay]. Accept [QA201 Investigate the Camp] (Krazek), [QA189 Bloodscalp Ears], [QA213 Hostile Takeover], [QA605 Singing Blue Shards] (Fizzlebub), [QA575 Some Assembly Required] (Drizzlik), [QA578 The Stone of the Tides] line (Revilgaz/Krazek)
 [G42,17 Stranglethorn Vale] Venture Co: [QC201 Investigate the Camp] + [QC213 Hostile Takeover]
 [G28,55 Stranglethorn Vale] Basilisk coast: [QC605 Singing Blue Shards]; river crocs for [QC575] as you pass
 [G32,20 Stranglethorn Vale] [QC189 Bloodscalp Ears] at the troll ruins
