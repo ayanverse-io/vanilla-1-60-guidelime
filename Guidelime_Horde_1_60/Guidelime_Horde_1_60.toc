@@ -1,0 +1,5 @@
+## Interface: 11509, 16001
+## Title: Horde 1-60 Leveling Guide (vanilla-1-60-guidelime)
+## Notes: Open-source Guidelime pack - Horde 1-60 (content landing next release)|nRequires Guidelime
+## Dependencies: Guidelime
+## Version: 0.2.0

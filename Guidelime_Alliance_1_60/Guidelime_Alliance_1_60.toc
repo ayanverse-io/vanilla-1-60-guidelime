@@ -1,0 +1,10 @@
+## Interface: 11509, 16001
+## Title: Alliance 1-60 Leveling Guide (vanilla-1-60-guidelime)
+## Notes: Open-source Guidelime pack - Alliance 12-60 (1-12 coming)|nRequires Guidelime
+## Dependencies: Guidelime
+## Version: 0.2.0
+
+Guides12_30.lua
+Guides30_40.lua
+Guides40_50.lua
+Guides50_60.lua
